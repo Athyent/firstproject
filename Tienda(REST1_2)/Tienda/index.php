@@ -22,6 +22,10 @@ function obtener_productos(){
     
     
 }
+function obtener_productos2(){
+    $productos ="";
+    return $productos;
+}
 function obtener_producto($id){
      require 'db.php';
     
